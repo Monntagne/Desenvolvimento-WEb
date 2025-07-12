@@ -1,0 +1,30 @@
+o que é um bloco? 
+
+
+bolean - tipo para tomada de descisão 
+
+
+pesquisar sobre Write que exibe uma mensagem na tela do html 
+
+operador matematico % (Eu não entendi esse, vamos estudar um pouco)
+
+
+começamos if else 
+
+
+
+Exercicos  para  casa:
+
+1 - Soma
+2 - Subitração
+3 - Multiplicação
+4 - Divisão 
+5 - Descobrir a área de um quadrado
+6 - Descobrir a área de um retangulo
+7 - Descobrir a área de um triangulo
+8 - Descobrir a área de um losangulo
+9 - Descobrir a área de um circulo
+10 - Descobrir a área de um trapezio
+
+
+

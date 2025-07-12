@@ -1,0 +1,65 @@
+* Pesquisar sobre Boas praticas de programação (Código limpo)
+* Pesquisar sobre o ranking das boas praticas (Código limpo)
+
+
+
+
+São sites para estudo :
+
+w3school - https://www.w3schools.com/
+
+jtpoint
+
+Como ação de boas praticas, o comando alert e for inserir texto, sempre usar aspas duplas, pois vai entra nas boas praticas de códigos
+
+
+Aspas sempre pra texto ("String")
+
+Sem aspas para number (números) 
+
+Dentro do alexte podemos fazer operações matematicas como contas e lógica
+
+
+Todo comando tem uma ação, precisamos especificar a sintax para determinar cada ação
+
+
+vamos trabalhar com operadores matematicos 
+
++ - soma
+- - subtração 
+/ - divisão
+* - multiplicação 
+
+
+para fazer um comentári é usado // 
+
+
+variaveis - armazenamos dados 
+
+let - são informações que tem possibilidades de ser alteradas em contas e manipulação de dom 
+const - são informações que não podem ser alteradas se eu tentar fazer operações matematicas com esse resultado, nao vai funcionar
+var - são informações uma variavel livre que ja esta mais antiga 
+
+
+" = " - recebe valores 
+
+
+
+
+
+
+
+
+
+Concatenar
+
+alert("texto" + let + "texto" + let + "texto" + let 
+
+
+
+
+isso abaixo é ussado em sistemas mais antigos  
+
+let $
+let $$$
+let $$$$

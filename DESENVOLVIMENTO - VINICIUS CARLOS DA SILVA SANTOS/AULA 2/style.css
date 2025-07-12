@@ -1,0 +1,47 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    height: 800px;
+    background-color: #f0f7da;
+    align-items: center;
+    color: #ffffff;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    margin: 3px;
+    display: flex;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    color: black;
+    cursor: text;
+} 
+button{
+    background-color: #234d20;
+    width: 200px;
+    height: 20px;
+    margin: 3px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.conteudo{
+
+    margin: 200px;
+    display: flex;
+    justify-content: center;
+}
+.usuario{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #77ab59;
+    border-radius: 10px;
+}
