@@ -1,0 +1,19 @@
+// 1 – Par ou ímpar
+//Peça um número ao usuário e informe se ele é par ou ímpar.
+
+// 2 – Número positivo, negativo ou zero
+//Peça um número e diga se ele é positivo, negativo ou igual a zero.
+
+
+// 3 – Verificar o turno
+//Peça ao usuário para digitar o turno que estuda (M para manhã, T para tarde ou N para noite) e mostre uma saudação apropriada.
+
+// 4 – Comparar dois números
+//Peça dois números ao usuário e informe qual é o maior, ou se eles são iguais.
+
+// 5 – Verificar se pode votar
+//Peça a idade do usuário e informe se ele pode votar ou não pode votar.
+
+// 6 – Verificar senha
+//Peça uma senha e compare com a senha correta (por exemplo, “1234”). Se for igual, mostre “Acesso permitido”. Se estiver errada, mostre “Acesso negado”.
+

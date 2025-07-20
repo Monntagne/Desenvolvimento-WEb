@@ -1,0 +1,10 @@
+// 1 - Faça um programa que receba dois valores e faça a soma 
+// 2 - Faça um programa que receba dois valores e faça a Subtração 
+// 3 - Faça um programa que receba dois valores e faça a multiplicação 
+// 4 - Faça um programa que receba dois valores e faça a Divisão 
+// 5 - Faça um programa para calcular área de um quadrado 
+// 6 - Faça um programa para calcular área de um retângulo 
+// 7 - Faça um programa para calcular área de um losango 
+// 8 - Faça um programa para calcular área de um triângulo 
+// 9 - Faça um programa para calcular área de um círculo  
+// 10 - Faça um programa para calcular área de um trapézio 
