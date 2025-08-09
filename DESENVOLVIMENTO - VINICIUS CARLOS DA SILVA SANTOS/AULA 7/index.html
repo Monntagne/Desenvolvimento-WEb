@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos</title>
+    <style>
+        button{
+            background-color: orange;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin: 5px;
+        }
+
+        input{
+            border-style: double;
+            border-radius: 10px;
+            color: white;
+            background-color: rgba(255, 166, 0, 0.575);
+            border: none;
+
+        }
+        input::placeholder {
+            color: rgb(255, 255, 255);
+            padding: 1px 10px;
+}
+    </style>
+</head>
+<body>
+
+
+<div>   
+<button onclick="mostrar()">Executar - Alerta 1</button>
+<button onclick="mostrarconsole()">Execultar - Console 1</button>
+</div>
+
+
+<div>
+<button id="mostra1">Executar - Alerta 2</button>
+<button id="mostrarconsole1">Execultar - Console 2</button>
+</div>
+
+<div>
+<input type="text" id="entrada" placeholder="Qual seu nome?">
+<button onclick="exibirmensagem()">Exibir mensagem</button>
+<p id="mensagem"></p>
+</div>
+
+
+<div>
+    
+<input type="text" id="usuario" placeholder="Usuario" oninput="logar()">
+<input type="text" id="senha" placeholder="Senha" oninput="logar()">
+
+
+
+<button onclick="logar()">Logar</button>
+<p id="logado"></p>
+</div>
+
+
+
+
+
+<div>
+<button onclick="mudarCor()"> MUDAR COR</button>
+
+
+</div>
+<script src="script.js"></script>
+
+<div>
+    <input type="color" id="seletorCor">
+    <button onclick="aplicarcor()" >Aplicar Cor</button>
+</div>
+
+<button id="click" onclick="contarClick()">Contar</button>
+<p id="contagem">0</p>
+</body>
+</html>
